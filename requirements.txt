@@ -1,0 +1,14 @@
+streamlit
+torch
+transformers
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+PyPDF2
+pdfplumber
+pytesseract
+pdf2image
+google-generativeai
+nltk
+requests
