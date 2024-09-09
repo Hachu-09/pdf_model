@@ -12,3 +12,5 @@ pdf2image
 google-generativeai
 nltk
 requests
+poppler-utils
+
